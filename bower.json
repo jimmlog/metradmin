@@ -1,12 +1,12 @@
 {
-    "name": "metradmin",
-    "version": "3.6.2.3",
-    "description": "Metradmin Theme",
-    "homepage": "https://github.com/jimmlog/metradmin",
-    "keywords": [
-        "metradmin",
-        "theme",
-        "3.6.2",
-        "assets"
-    ]
+   "name":"metradmin",
+   "version":"3.6.2.4",
+   "description":"Metradmin Theme",
+   "homepage":"https://github.com/jimmlog/metradmin",
+   "keywords":[
+      "metradmin",
+      "theme",
+      "3.6.2",
+      "assets"
+   ]
 }
