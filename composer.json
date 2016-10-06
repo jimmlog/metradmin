@@ -1,0 +1,31 @@
+{
+  "name": "jimmlog/metradmin",
+  "description": "Yii2 disposable email validator",
+  "version": "3.6.2",
+  "keywords": [
+        "metradmin",
+        "theme",
+        "3.6.2",
+        "assets"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/jimmlog/metradmin/",
+  "authors": [
+    {
+      "name": "Jimm Logan",
+      "email": "jimmloga@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jimmlog/metradmin/issues?state=open",
+    "source": "https://github.com/jimmlog/metradmin/"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "3.6.x-dev"
+    }
+  }
+}
