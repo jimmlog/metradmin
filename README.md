@@ -35,13 +35,13 @@ Either run
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 composer global require "fxp/composer-asset-plugin:^1.2.0"
-composer require "jimmlog/metradmin:^3.6.2.0"
+composer require "jimmlog/metradmin:^3.6.0"
 ```
 
 or add
 
 ```
-"jimmlog/metradmin": "^3.6.2.0"
+"jimmlog/metradmin": "^3.6.0"
 ```
 
 to the require section of your composer.json.
