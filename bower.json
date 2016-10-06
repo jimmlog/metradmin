@@ -1,12 +1,24 @@
 {
-   "name":"metradmin",
-   "version":"3.6.2.4",
-   "description":"Metradmin Theme",
-   "homepage":"https://github.com/jimmlog/metradmin",
-   "keywords":[
-      "metradmin",
-      "theme",
-      "3.6.2",
-      "assets"
-   ]
+  "name": "metradmin",
+  "version": "3.6.2.5",
+  "description": "Metradmin Theme",
+  "homepage": "https://github.com/jimmlog/metradmin",
+  "keywords": [
+    "metradmin",
+    "theme",
+    "3.6.2",
+    "assets"
+  ],
+  "authors": [
+    "Jimm Logan <jimmloga@gmail.com>"
+  ],
+  "main": "global/css/components.min.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
