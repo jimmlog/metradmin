@@ -8,7 +8,6 @@ This library contains Metradmin Theme for [Bower](https://bower.io/).
 [![License](https://poser.pugx.org/jimmlog/metradmin/license)](https://packagist.org/packages/jimmlog/metradmin)
 
 ## Installation 
-------------
 
 
 ### Bower
