@@ -158,7 +158,7 @@
                 }
                 
                 // make sure that the stack containers exist
-                if ($('.jquery-notific8-container').size() === 0) {
+                if ($('.jquery-notific8-container').length === 0) {
                     var $body = $('body');
                     $body.attr('data-notific8s', 0);
                     $body.append($('<div />').addClass('jquery-notific8-container').addClass('top').addClass('right'));

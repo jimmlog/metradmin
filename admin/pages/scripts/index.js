@@ -236,7 +236,7 @@ var Index = function () {
             ];
 
 
-            if ($('#site_statistics').size() != 0) {
+            if ($('#site_statistics').length != 0) {
 
                 $('#site_statistics_loading').hide();
                 $('#site_statistics_content').show();
@@ -317,7 +317,7 @@ var Index = function () {
             }
 
 
-            if ($('#site_activities').size() != 0) {
+            if ($('#site_activities').length != 0) {
                 //site activities
                 var previousPoint2 = null;
                 $('#site_activities_loading').hide();
